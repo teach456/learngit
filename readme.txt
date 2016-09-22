@@ -11,4 +11,6 @@ Git has a mutable index called stage.
 
 Git has a mutable index called stage1111
 
-Git tracks changes..
+Git tracks changes  111  of files..
+
+Git tracks 1111
